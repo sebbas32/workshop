@@ -1,0 +1,13 @@
+body{
+	font-family: verdana;	
+}
+
+
+body *{
+	box-sizing: border-box;
+
+}
+#logo{
+	width:300px;
+	background-color: blue; 
+}
